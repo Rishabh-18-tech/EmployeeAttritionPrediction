@@ -90,6 +90,7 @@ if st.button('🔍 Predict Attrition', use_container_width=True):
 st.divider()
 st.caption('Built by Rishabh Shukla  using Streamlit | IBM HR Analytics Kaggle DataSet| MNNIT Internship 2026')
 st.markdown('''[LinkedIn](https://www.linkedin.com/in/rishabh-shukla-6b6571327)   |  [GitHub](https://github.com/Rishabh-18-tech)''')
+st.sidebar.markdown('Deployed on : [Streamlit Cloud](https://employee-attrition-rishabh.streamlit.app/)')
 st.sidebar.info(' 📊 Project Details:')
 st.sidebar.info('''
 The model is trained on IBM HR Analytics Employee Attrition & Performance dataset from Kaggle.
