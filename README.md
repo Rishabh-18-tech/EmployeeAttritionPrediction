@@ -51,7 +51,7 @@ The application is built using **Streamlit** and deployed on **Streamlit Cloud**
 ---
 
 ## 🎥 Demo
-🔗 **Live App:** [Click Here](https://your-app-link.streamlit.app)
+🔗 **Live App:** [Click Here](https://employee-attrition-rishabh.streamlit.app/)
 
 ---
 
