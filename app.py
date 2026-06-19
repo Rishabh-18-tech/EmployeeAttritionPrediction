@@ -1,3 +1,5 @@
+import os
+from datetime import datetime
 import streamlit as st
 import pandas as pd
 import pickle
@@ -24,6 +26,14 @@ st.markdown('⇨ Predict whether an employee is likely to leave an organization.
 st.divider()
 
 st.subheader('📋 Enter Employee Details')
+st.subheader('👤 Employee Information')
+employee_name = st.text_input('Employee Name', placeholder='Enter employee name here...')
+
+if employee_name == '':
+    st.warning('Enter Employee Name to proceed')
+
+st.divider()
+
 
 col1, col2 = st.columns(2)
 
