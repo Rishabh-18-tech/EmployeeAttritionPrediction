@@ -109,4 +109,4 @@ Developed by Rishabh Shukla
                    
 ''')
 st.markdown('Deployed on : [Streamlit Cloud](https://employee-attrition-rishabh.streamlit.app/)')
-st.markdown("[📩Email](mailto:10.rajasva@gmail.com)")
+st.markdown("[📩Email :10.rajasva@gmail.com ](mailto:10.rajasva@gmail.com)")
