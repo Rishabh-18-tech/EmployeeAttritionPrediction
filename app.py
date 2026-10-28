@@ -115,7 +115,8 @@ Model : Random Forest Classifier
 
 Deployed on : Streamlitcloud
 
-Developed by Priyanshu Mishra
+Developed by Rishabh Shukla
+             Priyanshu Mishra
                    
 ''')
 st.markdown('Deployed on : [Streamlit Cloud](https://employee-attrition-rishabh.streamlit.app/)')
